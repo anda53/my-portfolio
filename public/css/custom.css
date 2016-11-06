@@ -7,7 +7,7 @@
 #services{
 	background-color: red;
 }
-iframe{
+#soundcloud{
 	margin-top: 35%;
 	margin-left: 4%;
 }
@@ -45,19 +45,19 @@ h3{
 	text-shadow: none;
 }
 .liveLink{
-	margin-left: 68%;
+	margin-left: 61%;
 	font-size: 20px;
 }
 .githubLink{
-	margin-left: 4%;
+	margin-left: 10%;
 	margin-right: -7%;
 	font-size: 20px;
 }
 .carousel-caption{
 	margin-bottom: 15%;
 }
-#BTF, #burgerLink, #bamazonLink{
-	margin-left: 68%;
+#BTF, #burgerLink, #bamazon{
+	margin-left: 37%;
 }
 #contact{
 	background-image: url('../img/tropical_back.jpg');
@@ -72,6 +72,20 @@ label{
 	font-size: 22px;
 	color: black;
 }
+.portPic{
+	height: 240px;
+
+}
+#atags{
+	line-height: 0;
+	margin-bottom: 14%;
+}
+iframe{
+	margin-top: 10%;
+	margin-left: 0%;
+}
+
+
 
 
 
@@ -90,19 +104,54 @@ label{
 		display: none;
 	}
 	.githubLink{
-
+		font-size: 16px;
+		margin-left: 10%;
 	}
 
 	.liveLink{
-		
+		font-size: 16px;
+	}
+	.portPic{
+		height: 182px;
+	}
+	#burgerLink, #BTF, #bamazon{
+		margin-left: 27%;
 	}
 
 
 }
 
 @media screen and (max-width: 640px){
-
-
+	.jobTitle{
+		font-size: 20px;
+	}
+	.projDesc{
+		font-size: 14px;
+	    margin-right: 4%;
+	}
+	.portPic{
+		height:196px;
+		margin-left: -5px;
+		
+	}
+	.githubLink{
+		font-size: 14px;
+	}
+	.liveLink{
+		font-size: 14px;
+	}
+	#atags{
+	    line-height: 0;
+    	margin-bottom: 6%;
+    	margin-left:1%;
+    	margin-right:7%;
+	}
+	label{
+		font-size: 16px;
+	}
+	#atags{
+		margin-bottom: 14%;
+	}
 }
 
 
