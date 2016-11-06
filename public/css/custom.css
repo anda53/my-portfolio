@@ -1,0 +1,109 @@
+
+.name{
+	margin-top: 10px;
+	font-size: 25px;
+	color: #22581c;
+}
+#services{
+	background-color: red;
+}
+iframe{
+	margin-top: 35%;
+	margin-left: 4%;
+}
+#farmPic{
+	border-radius: 20%;
+}
+#livePic{
+	border-radius: 20%;
+}
+#emailSubmit{
+	padding: 4px 8px;
+    font-size: 13px;
+    background-color: white;
+    color:green;
+}
+.item.active{
+	margin-left: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+h3{
+	margin-left: 58%;
+	margin-right: -17%;
+	
+}
+.description{
+	margin-left: 62%;
+	margin-right: -17%;
+	color: #444444;
+	font-size: 17px;
+	margin-bottom: 3%;
+}
+.carousel-caption{
+	text-shadow: none;
+}
+.liveLink{
+	margin-left: 68%;
+	font-size: 20px;
+}
+.githubLink{
+	margin-left: 4%;
+	margin-right: -7%;
+	font-size: 20px;
+}
+.carousel-caption{
+	margin-bottom: 15%;
+}
+#BTF, #burgerLink, #bamazonLink{
+	margin-left: 68%;
+}
+#contact{
+	background-image: url('../img/tropical_back.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+.heading{
+	color: black;
+}
+label{
+	font-size: 22px;
+	color: black;
+}
+
+
+
+
+@media screen and (max-width: 768px){
+	#soundcloud{
+		margin-right: 6%;
+	}
+	.bamazon{
+		width:92%;
+	}
+	.description{
+		display:none;
+	}
+	h3.projTitle{
+		display: none;
+	}
+	.githubLink{
+
+	}
+
+	.liveLink{
+		
+	}
+
+
+}
+
+@media screen and (max-width: 640px){
+
+
+}
+
+
+
