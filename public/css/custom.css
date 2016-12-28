@@ -87,6 +87,25 @@ iframe{
 .bio{
 
 }
+#origRem{
+	max-height: 20%;
+}
+#paperProtoBas{
+	width: 124%;
+	margin-top: 23%;
+	margin-left:-75%; 
+}
+#paperProtoPro{
+	margin-left: -57%;
+	width:115%;
+	margin-top: 23%;
+}
+#projDetails{
+	margin-bottom: 8%;
+}
+#theProblem{
+	
+}
 
 
 
@@ -119,6 +138,51 @@ iframe{
 	}
 	#burgerLink, #BTF, #bamazon{
 		margin-left: 27%;
+	}
+	#origRem{
+		width: 44%;
+		margin-top: 12%;
+	}
+
+	#theProblem{
+		margin-left: 36%;
+		margin-top: -83%;
+		margin-right: 4%;
+	}
+	#paperProtoBas{
+		width: 30%;
+		margin-left: 34%;
+		margin-top: -85%;
+
+	}
+	#paperProtoPro{
+		width: 28%;
+		margin-left: 67%;
+		margin-top: -91%;
+
+	}
+	#solution{
+		width: 35%;
+	}
+	#protoBasView{
+		width: 180px;
+	}
+	#proView{
+		width: 180px;
+		margin-left: 32%;
+		margin-top: -361px;
+	}
+	
+	#qwert{
+		width: 260px;
+		margin-left: 63%;
+		margin-top: -48%;
+	}
+	#proImg{
+		width: 179px;
+	}
+	#qwertPic{
+		width: 78%;
 	}
 
 
@@ -155,6 +219,7 @@ iframe{
 	#atags{
 		margin-bottom: 14%;
 	}
+
 }
 
 
