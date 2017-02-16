@@ -67,6 +67,9 @@ h3{
 }
 .heading{
 	color: black;
+	margin-left: 0px;
+	margin-top: -13%;
+
 }
 label{
 	font-size: 22px;
@@ -89,23 +92,74 @@ iframe{
 }
 #origRem{
 	max-height: 20%;
+	margin-top: 20%;
 }
 #paperProtoBas{
-	width: 124%;
+	width: 110%;
 	margin-top: 23%;
-	margin-left:-75%; 
+	margin-left:-124%; 
 }
 #paperProtoPro{
-	margin-left: -57%;
-	width:115%;
-	margin-top: 23%;
+	margin-left: -5%;
+	width:103%;
+	margin-top: -130%;
 }
 #projDetails{
 	margin-bottom: 8%;
 }
-#theProblem{
-
+#navItems{
+	font-size: 20px;
 }
+#solution{
+	margin-left: 6%;
+}
+#application{
+	padding-top: 12%;
+}
+#cardSort{
+	max-width: 95%;
+	padding-bottom: 12%;
+}
+#brainstorm{
+	max-width: 82%;
+	margin-top: 5%;
+}
+.quickMockup{
+	max-width: 76%;
+	margin-left: 4%;
+	margin-top: 5%;
+}
+#fabianaSouza{
+	max-width: 96%;
+}
+#theProblem{
+	margin-top: 6%;
+}
+.wireframe1{
+	width: 110%;
+	margin-left: -15px;
+	margin-top: 1%
+}
+.wireframe2{
+	width: 95%;
+	margin-left: 7%;
+	margin-top: 1%;
+}
+.wireframe3{
+	width: 68%;
+	margin-top: 1%;
+}
+.mockupBCR{
+	padding-top: 2%;
+}
+.prototypeBCR{
+	padding-top: 4%;
+}
+.deliverable{
+	padding-top: 12%;
+}
+
+
 
 
 
@@ -264,9 +318,10 @@ iframe{
 		margin-left: -93%;
 		margin-right: 33%;
 	}
-	.application{
+	#application{
 		margin-left: 10%;
 	}
+
 
 }
 
