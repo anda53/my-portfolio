@@ -11,12 +11,10 @@
 	margin-top: 35%;
 	margin-left: 4%;
 }
-#farmPic{
-	border-radius: 20%;
+#farmPic, #livePic{
+	border-radius: 6%;
 }
-#livePic{
-	border-radius: 20%;
-}
+
 #emailSubmit{
 	padding: 4px 8px;
     font-size: 13px;
@@ -67,10 +65,12 @@ h3{
 }
 .heading{
 	color: black;
+	margin-top: -20%;
 }
 label{
 	font-size: 22px;
 	color: black;
+	padding-top: 1%;
 }
 .portPic{
 	height: 240px;
@@ -106,8 +106,15 @@ iframe{
 #theProblem{
 
 }
-
-
+.bioPic{
+	margin-top: -87%;
+}
+.menuTab{
+	font-size: 20px;
+}
+.container{
+	overflow: hidden;
+}
 
 
 
@@ -183,6 +190,36 @@ iframe{
 	}
 	#qwertPic{
 		width: 78%;
+	}
+	.jobTitle{
+		margin-right: 24%;
+	}
+	.bio{
+		margin-right: 10%;
+	}
+	#farmPic, #livePic{
+		max-width: 90%;
+	    margin-right: 9%;
+
+	}
+	.bioPic{
+		margin-top: -30%;
+		margin-left: -3%;
+	}
+	#contactMargin{
+
+	}
+	.heading{
+		margin-top: 0%;
+	}
+	#navigation{
+		margin-right: 5%;
+	}
+	.title3{
+		margin-right: 6%;
+	}
+	#name, #email, Phone, #message{
+
 	}
 
 
@@ -262,10 +299,26 @@ iframe{
 	}
 	.title3{
 		margin-left: -93%;
-		margin-right: 33%;
+		margin-right: 44%;
 	}
 	.application{
 		margin-left: 10%;
+	}
+	#origRem{
+	    width: 63%;
+	    margin-top: -4%;
+	    padding-bottom: 94%;
+	    margin-left: 16%;
+	}
+	.nudge{
+		margin-left: 6%;
+	}
+	.desc{
+		margin-left: 11%;
+    	margin-top: -8%;
+	}
+	#contact{
+		background-size: 148% 100%;
 	}
 
 }

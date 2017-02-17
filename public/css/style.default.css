@@ -512,6 +512,7 @@ NAVBAR
 }
 .navbar-default .navbar-toggle {
   border-color: #ffffff;
+  margin-right: 9%;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
@@ -702,7 +703,7 @@ label {
 }
 .form-control {
   display: block;
-  width: 100%;
+  width: 90%;
   height: 36px;
   padding: 6px 12px;
   font-size: 16px;
